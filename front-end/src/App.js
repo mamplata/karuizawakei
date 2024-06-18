@@ -20,6 +20,7 @@ import DoctorViewProfile from './component/DoctorViewProfile';
 function App() {
   return (
     <div>
+    dasdadad
       <BrowserRouter>
         <Routes>
           {

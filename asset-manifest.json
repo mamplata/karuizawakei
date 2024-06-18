@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/karuizawakei/static/css/main.4e33ca02.css",
-    "main.js": "/karuizawakei/static/js/main.c3feed4b.js",
+    "main.js": "/karuizawakei/static/js/main.c0a74293.js",
     "static/js/453.f7be5b23.chunk.js": "/karuizawakei/static/js/453.f7be5b23.chunk.js",
     "static/media/hospitalbg.png": "/karuizawakei/static/media/hospitalbg.69a227eaa469962a8081.png",
     "index.html": "/karuizawakei/index.html",
     "main.4e33ca02.css.map": "/karuizawakei/static/css/main.4e33ca02.css.map",
-    "main.c3feed4b.js.map": "/karuizawakei/static/js/main.c3feed4b.js.map",
+    "main.c0a74293.js.map": "/karuizawakei/static/js/main.c0a74293.js.map",
     "453.f7be5b23.chunk.js.map": "/karuizawakei/static/js/453.f7be5b23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e33ca02.css",
-    "static/js/main.c3feed4b.js"
+    "static/js/main.c0a74293.js"
   ]
 }
